@@ -1,1 +1,1 @@
-# RabbitMQ_Tutorials_CS
+# RabbitMQ tutorials project on C#
